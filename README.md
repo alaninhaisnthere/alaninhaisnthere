@@ -35,3 +35,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/alanaoliveira71" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=/" alt="LinkedIn"/></a>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/alanaoliveira71" title="Discord">
+  <img src="https://img.shields.io/discord/1178777343519625287?logo=discord&label=Discord&labelColor=fafafa&color=000000" alt="LinkedIn"/></a>
