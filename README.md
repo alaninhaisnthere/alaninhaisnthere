@@ -1,6 +1,6 @@
 <img src="https://logichost.com.br/assets/images/developer2.gif" alt="laptop" min-width="400px" max-width="400px" width="400px" align="right">
 
-## 🌸 Olá, bem vind@! Me chamo <strong>Alana Oliveira</strong> 🌸
+## 🌸 Olá, bem vind@! Me chamo <strong>Alana Oliveira</strong>
 > <h3> Baiana, apaixonada por tecnologia e amante do design.</h3>
 - 💻 Desenvolvedora frontend React/Typescript e backend Java. <br>
 - 🎓 Graduanda em **Ciência e Tecnologia** pela UFBA - Universidade Federal da Bahia. <br>
