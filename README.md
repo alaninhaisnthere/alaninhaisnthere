@@ -2,7 +2,7 @@
 
 ## 🌸 Olá, bem vind@! Me chamo <strong>Alana Oliveira</strong>
 > <h3> Baiana, apaixonada por tecnologia e amante do design.</h3>
-- 💻 Desenvolvedora frontend React/Typescript e backend Java. <br>
+- 💻 Desenvolvedora frontend React/Typescript. Estudando backend em Java. <br>
 - 🎓 Graduanda em **Ciência e Tecnologia** pela UFBA - Universidade Federal da Bahia. <br>
 - 💼 Ex-membro da <a href="https://www.infojr.com.br/">InfoJR UFBA</a>, empresa júnior de tecnologia da Universidade Federal da Bahia. 
 
@@ -10,7 +10,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,angular,java,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,vue,angular,java,tailwind" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,git," />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,git,webflow" />
   </a>
 </p>
 
