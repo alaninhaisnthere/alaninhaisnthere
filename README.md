@@ -2,8 +2,8 @@
 
 ## 🌸 Olá, bem vind@! Me chamo <strong>Alana Oliveira</strong>
 > <h3> Baiana, apaixonada por tecnologia e amante do design.</h3>
-- 💻 Desenvolvedora frontend React/Typescript. Estudando backend em Java. <br>
-- 🎓 Graduanda em **Ciência e Tecnologia** pela UFBA - Universidade Federal da Bahia. <br>
+- 💻 Desenvolvedora frontend React/Typescript. Me aprofundando em Angular e backend em Java. <br>
+- 🎓 Graduanda em **Ciência e Tecnologia** pela **UFBA - Universidade Federal da Bahia**. <br>
 - 💼 Ex-membro da <a href="https://www.infojr.com.br/">InfoJR UFBA</a>, empresa júnior de tecnologia da Universidade Federal da Bahia. 
 
 ## 🚀 Skills
