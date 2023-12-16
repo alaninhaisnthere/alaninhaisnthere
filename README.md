@@ -3,7 +3,7 @@
 <img src="https://logichost.com.br/assets/images/developer2.gif" alt="laptop" min-width="400px" max-width="400px" width="400px" align="right">
 
 ## Olá
-Me chamo <strong>Alana Oliveira</strong>
+Me chamo <strong>Alana Oliveira</strong> 🖖🏽
 
 > <h3> Baiana, apaixonada por tecnologia e amante do design.</h3>
 - 💻 Desenvolvedora frontend React/Typescript. Me aprofundando em Angular e backend em Java. <br>
@@ -46,7 +46,7 @@ Me chamo <strong>Alana Oliveira</strong>
 
 ## Hey
 
-My name is <strong>Alana Oliveira</strong>
+My name is <strong>Alana Oliveira</strong> 🖖🏽
 
 > <h3> Brazilian, deeply in love with technology, and a design enthusiast.</h3>
 - 💻 Frontend developer in React/Typescript. Diving into Angular and backend in Java. <br>
