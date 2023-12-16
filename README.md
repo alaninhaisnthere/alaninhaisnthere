@@ -1,4 +1,4 @@
-[PT-BR](#olá) [ENG](#hey)
+[PT-BR](#olá) // [ENG](#hey)
 -----------------------------
 <img src="https://logichost.com.br/assets/images/developer2.gif" alt="laptop" min-width="400px" max-width="400px" width="400px" align="right">
 
