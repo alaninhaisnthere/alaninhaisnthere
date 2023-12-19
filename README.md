@@ -49,9 +49,9 @@ Me chamo <strong>Alana Oliveira</strong> 🖖🏽
 My name is <strong>Alana Oliveira</strong> 🖖🏽
 
 > <h3> Brazilian, deeply in love with tech, and a design enthusiast.</h3>
-- 💻 Frontend developer in React/Typescript. Diving into Angular and backend in Java. <br>
+- 💻 Frontend dev in React/Typescript. Diving into Angular and backend in Java. <br>
 - 🎓 Undergraduate in **Science and Technology** at **UFBA - Federal University of Bahia**. <br>
-- 💼 Former member of <a href="https://www.infojr.com.br/">InfoJR UFBA</a>, the junior technology company of the Federal University of Bahia.
+- 💼 Former member of <a href="https://www.infojr.com.br/">InfoJR UFBA</a>, junior technology company of the Federal University of Bahia.
 
 ## 🚀 Skills
 
