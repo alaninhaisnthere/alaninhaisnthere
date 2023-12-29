@@ -2,7 +2,7 @@
 -----------------------------
 <img src="https://logichost.com.br/assets/images/developer2.gif" alt="laptop" min-width="400px" max-width="400px" width="400px" align="right">
 
-## Olá
+## Olá!
 Me chamo <strong>Alana Oliveira</strong> 🖖🏽
 
 > <h3> Baiana, apaixonada por tecnologia e amante do design.</h3>
@@ -18,7 +18,7 @@ Me chamo <strong>Alana Oliveira</strong> 🖖🏽
   </a>
 </p>
 
-## 🛠️ Desenvolvimento
+## 🛠️ Ferramentas
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -44,8 +44,7 @@ Me chamo <strong>Alana Oliveira</strong> 🖖🏽
 
 <img src="https://logichost.com.br/assets/images/developer2.gif" alt="laptop" min-width="400px" max-width="400px" width="400px" align="right">
 
-## Hey
-
+## Sup!
 My name is <strong>Alana Oliveira</strong> 🖖🏽
 
 > <h3> Brazilian, deeply in love with tech, and a design enthusiast.</h3>
@@ -61,7 +60,7 @@ My name is <strong>Alana Oliveira</strong> 🖖🏽
   </a>
 </p>
 
-## 🛠️ Development
+## 🛠️ Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
