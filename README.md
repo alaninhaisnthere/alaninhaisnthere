@@ -1,16 +1,16 @@
-[PT-BR](#olá) // [ENG](#hey)
------------------------------
-<img src="https://logichost.com.br/assets/images/developer2.gif" alt="laptop" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp" alt="laptop" min-width="400px" max-width="400px" width="400px" align="right">
 
-## Olá!
-Me chamo <strong>Alana Oliveira</strong> 🖖🏽
+## Hello, Techies! 🖖🏽
 
-> <h3> Baiana, apaixonada por tecnologia e amante do design.</h3>
-- 💻 Desenvolvedora frontend React/Typescript. Me aprofundando em Angular e backend em Java. <br>
-- 🎓 Graduanda em **Ciência e Tecnologia** pela **UFBA - Universidade Federal da Bahia**. <br>
-- 💼 Ex-membro da <a href="https://www.infojr.com.br/">InfoJR UFBA</a>, empresa júnior de tecnologia da Universidade Federal da Bahia. 
+Me chamo **Alana Oliveira**, uma geek entusiasta do desenvolvimento web, casada com o código e amante do design.
 
-## 🚀 Skills
+### 👩🏾‍💻 No Mundo do Desenvolvimento
+
+- Desenvolvedora frontend focada em React e Typescript e back-end em Node.js e AWS, mas também me aventurando em Angular e Java. 🌐
+- Atualmente, sou graduanda em **Ciência e Tecnologia** na **UFBA - Universidade Federal da Bahia**. 🎓
+- Experiência como ex-membro da <a href="https://www.infojr.com.br/">InfoJR UFBA</a>.
+
+### 🚀  Habilidades
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -18,7 +18,7 @@ Me chamo <strong>Alana Oliveira</strong> 🖖🏽
   </a>
 </p>
 
-## 🛠️ Ferramentas
+### 🧰  Ferramentas
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -32,52 +32,10 @@ Me chamo <strong>Alana Oliveira</strong> 🖖🏽
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaninhaisnthere&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
 </a>
 
-<br>
-
-### 📱 Social:
+### 🌐 Conecte-se Comigo:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/alanaoliveira71" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=/" alt="LinkedIn"/></a>
 
---------------------------------
-
-<img src="https://logichost.com.br/assets/images/developer2.gif" alt="laptop" min-width="400px" max-width="400px" width="400px" align="right">
-
-## Sup!
-My name is <strong>Alana Oliveira</strong> 🖖🏽
-
-> <h3> Brazilian, deeply in love with tech, and a design enthusiast.</h3>
-- 💻 Frontend dev in React/Typescript. Diving into Angular and backend in Java. <br>
-- 🎓 Undergraduate in **Science and Technology** at **UFBA - Federal University of Bahia**. <br>
-- 💼 Former member of <a href="https://www.infojr.com.br/">InfoJR UFBA</a>, junior technology company of the Federal University of Bahia.
-
-## 🚀 Skills
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,vue,angular,java,tailwind" />
-  </a>
-</p>
-
-## 🛠️ Tools
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,git,webflow" />
-  </a>
-</p>
-
-### 📊 Statistics
-
-<a href="https://github.com/alaninhaisnthere" title="Programming languages breakdown">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaninhaisnthere&theme=dracula&hide_langs_below=1" alt="Programming languages breakdown"/>
-</a>
-
-<br>
-
-### 📱 Social:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/alanaoliveira71" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=/" alt="LinkedIn"/></a>
+Manda ver, e se precisar de mais alguma coisa, é só falar! 😄✨
