@@ -1,5 +1,4 @@
-<img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp" alt="laptop" min-width="400px" max-width="400px" width="400px" align="right">
-<br>
+<img src="https://miro.medium.com/v2/resize:fit:996/format:webp/1*CtdykXzI3YnV7hrkaTnvCw.gif" alt="laptop" min-width="500px" max-width="500px" width="500px" align="right">
 
 ## Hello, Techies! 🖖🏽
 
@@ -9,10 +8,11 @@ Me chamo **Alana Oliveira**, uma geek entusiasta do desenvolvimento web, casada 
 
 ### 👩🏾‍💻 No Mundo do Desenvolvimento
 
-- Desenvolvedora frontend focada em React e Typescript e back-end em Node.js e AWS, mas também me aventurando em Angular e Java. 🌐
-- Atualmente, sou graduanda em **Ciência e Tecnologia** na **UFBA - Universidade Federal da Bahia**. 🎓
-- Experiência como ex-membro da <a href="https://www.infojr.com.br/">InfoJR UFBA</a>.
-  
+- Desenvolvedora FullStack focada em React e Typescript, Node.js e Javascript. Também me aventurando em Angular e Java. 🌐
+- Designer UX/UI. 🎨
+- Graduanda em **Ciência e Tecnologia** na **UFBA - Universidade Federal da Bahia**. 🎓
+- Experiência como ex-membro da <a href="https://www.infojr.com.br/">InfoJR UFBA</a>. 💻
+    
 </br>
 
 ### 🚀  Habilidades
