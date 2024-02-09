@@ -1,4 +1,5 @@
 <img src="https://miro.medium.com/v2/resize:fit:996/format:webp/1*CtdykXzI3YnV7hrkaTnvCw.gif" alt="laptop" min-width="500px" max-width="500px" width="500px" align="right">
+<br>
 
 ## Hello, Techies! 🖖🏽
 
