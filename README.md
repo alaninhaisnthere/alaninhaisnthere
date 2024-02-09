@@ -10,7 +10,7 @@ Me chamo **Alana Oliveira**, uma geek entusiasta do desenvolvimento web, casada 
 ### 👩🏾‍💻 No Mundo do Desenvolvimento
 
 - Desenvolvedora FullStack focada em React e Typescript, Node.js e Javascript. Também me aventurando em Angular e Java. 🌐
-- Designer UX/UI. 🎨
+- Designer UX/UI, Figma Community: @alaninha 🎨
 - Graduanda em **Ciência e Tecnologia** na **UFBA - Universidade Federal da Bahia**. 🎓
 - Experiência como ex-membro da <a href="https://www.infojr.com.br/">InfoJR UFBA</a>. 💻
     
