@@ -50,4 +50,6 @@ Me chamo **Alana Oliveira**, uma geek entusiasta do desenvolvimento web, casada 
   <a href="https://www.linkedin.com/in/alanaoliveira71" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=/" alt="LinkedIn"/></a>
 
- Sinta-se à vontade para entrar em contato se surgir algo! 😄✨
+best regards, 
+
+Alaninha 😄✨
