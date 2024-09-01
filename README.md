@@ -1,7 +1,7 @@
 <img src="https://miro.medium.com/v2/resize:fit:996/format:webp/1*CtdykXzI3YnV7hrkaTnvCw.gif" alt="laptop" min-width="300px" max-width="300px" width="300px" align="right">
 <br>
 
-Hello, Techies! 🖖🏽
+Hello, "frens"! 🖖🏽
 
 Sou a **Alana**, entusiasta do desenvolvimento web, casada com o código e amante do design.
 
