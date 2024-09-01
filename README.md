@@ -3,11 +3,11 @@
 
 Hello, Techies! 🖖🏽
 
-Me chamo **Alana Oliveira**, uma geek entusiasta do desenvolvimento web, casada com o código e amante do design.
+Sou a **Alana**, entusiasta do desenvolvimento web, casada com o código e amante do design.
 
 </br>
 
-### 👩🏾‍💻 No Mundo do Desenvolvimento
+### 👩🏾‍💻 No mundo dev
 
 - Desenvolvedora FullStack focada em React e Typescript, Node.js e Javascript. Também me aventurando em Angular e Java. 🌐
 - Designer UX/UI, Figma Community: @alaninha 🎨
@@ -16,7 +16,7 @@ Me chamo **Alana Oliveira**, uma geek entusiasta do desenvolvimento web, casada 
     
 </br>
 
-### 🚀  Habilidades
+### 🚀  Skills
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -26,7 +26,7 @@ Me chamo **Alana Oliveira**, uma geek entusiasta do desenvolvimento web, casada 
 
 </br>
 
-### 🧰  Ferramentas
+### 🧰  Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -36,7 +36,7 @@ Me chamo **Alana Oliveira**, uma geek entusiasta do desenvolvimento web, casada 
 
 </br>
 
-### 📊 Estatísticas
+### 📊 Stats
 
 <a href="https://github.com/alaninhaisnthere" title="ilustração do mapeamento de linguagens">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaninhaisnthere&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
@@ -44,7 +44,7 @@ Me chamo **Alana Oliveira**, uma geek entusiasta do desenvolvimento web, casada 
 
 </br>
 
-### 🌐 Conecte-se Comigo:
+### 🌐 Conecte-se comigo:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/alanaoliveira71" title="LinkedIn">
