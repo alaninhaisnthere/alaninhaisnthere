@@ -1,22 +1,18 @@
 <img src="https://miro.medium.com/v2/resize:fit:996/format:webp/1*CtdykXzI3YnV7hrkaTnvCw.gif" alt="laptop" min-width="300px" max-width="300px" width="300px" align="right">
 <br>
 
-Hello, "frens"! 🖖🏽
+Saudações, terráqueos! 🖖🏽
 
-Sou a **Alana**, entusiasta do desenvolvimento web, casada com o código e amante do design.
+👩🏾‍💻 Sou a **Alana** (a.k.a. alaninha), desenvolvedora web e designer ux/ui.
 
-</br>
-
-### 👩🏾‍💻 No mundo dev
-
-- Desenvolvedora FullStack focada em React e Typescript, Node.js e Javascript. Também me aventurando em Angular e Java. 🌐
+- Fullstack focada em React, Typescript, Node.js e Javascript. 🌐
 - Designer UX/UI, Figma Community: @alaninha 🎨
-- **Bacharelado em Ciência e Tecnologia** - **UFBA - Universidade Federal da Bahia**. 🎓
+- Bacharelado em Ciência e Tecnologia - UFBA (Universidade Federal da Bahia). 🎓
 - Ex-membro da <a href="https://www.infojr.com.br/">InfoJR UFBA</a>. 💻
     
 </br>
 
-### 🚀  Skills
+### 🚀  Skillset
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -25,8 +21,6 @@ Sou a **Alana**, entusiasta do desenvolvimento web, casada com o código e amant
 </p>
 
 </br>
-
-### 🧰  Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -44,12 +38,11 @@ Sou a **Alana**, entusiasta do desenvolvimento web, casada com o código e amant
 
 </br>
 
-### 🌐 Conecte-se comigo:
+### 🌐
 
 <p align="left">
   <a href="https://www.linkedin.com/in/alanaoliveira71" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=/" alt="LinkedIn"/></a>
 
-best regards, 
 
-Alaninha 😄✨
+Alaninha // xx ✨
