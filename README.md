@@ -1,14 +1,15 @@
 <img src="https://miro.medium.com/v2/resize:fit:996/format:webp/1*CtdykXzI3YnV7hrkaTnvCw.gif" alt="laptop" min-width="300px" max-width="300px" width="300px" align="right">
 <br>
 
-Saudações, terráqueos! 🖖🏽
 
-👩🏾‍💻 Sou a **Alana** (a.k.a. alaninha), desenvolvedora web e designer ux/ui.
 
-- Fullstack, main em React, Typescript, Node.js e Javascript.
+🖖🏽 Sou a **Alana** (a.k.a. alaninha), desenvolvedora web e designer ux/ui <br/>
+👩🏾‍💻 Desenvolvedora front-end @ <a href="https://www.onze.com.br/">Onze</a>
+
+- Fullstack, main em React, Typescript, Node.js e Javascript
 - Designer UX/UI, Figma: @alaninha
-- Bacharelado em Ciência e Tecnologia - UFBA (Universidade Federal da Bahia).
-- Ex-membro da <a href="https://www.infojr.com.br/">InfoJR UFBA</a>.
+- Bacharelado em Ciência e Tecnologia - UFBA (Universidade Federal da Bahia)
+- Ex-membro da <a href="https://www.infojr.com.br/">InfoJR UFBA</a>
     
 </br>
 
