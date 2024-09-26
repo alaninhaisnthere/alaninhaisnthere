@@ -6,7 +6,7 @@
 🖖🏽 Sou a **Alana** (a.k.a. alaninha), desenvolvedora web e designer ux/ui <br/>
 👩🏾‍💻 Desenvolvedora front-end @ <a href="https://www.onze.com.br/">Onze</a>
 
-- Fullstack, main em React, Typescript, Node.js e Javascript
+- Fullstack, main em React, Javascript/Typescript e Node.js
 - Designer UX/UI, Figma: @alaninha
 - Bacharelado em Ciência e Tecnologia - UFBA (Universidade Federal da Bahia)
 - Ex-membro da <a href="https://www.infojr.com.br/">InfoJR UFBA</a>
