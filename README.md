@@ -4,7 +4,7 @@
 
 
 🖖🏽 Sou a **Alana** (a.k.a. alaninha), desenvolvedora web e designer ux/ui <br/>
-👩🏾‍💻 Desenvolvedora front-end @ <a href="https://www.onze.com.br/">Onze</a>
+👩🏾‍💻 Desenvolvedora front-end @ <a href="https://www.onze.com.br/">Onze (Red Ventures)</a>
 
 - Fullstack, main em React, Javascript/Typescript e Node.js
 - Designer UX/UI, Figma: @alaninha
