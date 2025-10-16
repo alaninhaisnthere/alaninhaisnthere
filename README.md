@@ -3,7 +3,7 @@
 
 
 
-🖖🏽 hiiii, sou a **Alana** (a.k.a. alaninha), desenvolvedora web e designer ux/ui <br/>
+🖖🏽 **Alana** (a.k.a. alaninha), desenvolvedora web e designer ux/ui <br/>
 👩🏾‍💻 deva front-end @ <a href="https://netra.global/"> Netra</a>
     
 </br>
@@ -12,7 +12,7 @@
 
 - deva front-end main React, Javascript/Typescript e umas baguncinhas no Node.js
 - designer UX/UI, figma: @alaninha
-- bacharelado em Ciência e Tecnologia - UFBA (Universidade Federal da Bahia)
+- bi c&t - UFBA (Universidade Federal da Bahia)
 - ex-membro da <a href="https://www.infojr.com.br/">InfoJR UFBA</a>
 <br/>
 
