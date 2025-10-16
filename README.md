@@ -4,7 +4,7 @@
 
 
 🖖🏽 hiiii, sou a **Alana** (a.k.a. alaninha), desenvolvedora web e designer ux/ui <br/>
-👩🏾‍💻 deva front-end @ <a href="https://www.onze.com.br/">Onze (Red Ventures)</a>
+👩🏾‍💻 deva front-end @ <a href="https://netra.global/"> Netra</a>
     
 </br>
 
